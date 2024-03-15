@@ -1,0 +1,24 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing /Users/tomas.merendon/Code/TrainingProjects/ejemploScalajs/livechart/target/scala-3.2.2/livechart-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 8353 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 5517 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 66045 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: false[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 7768 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 0 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 189 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 9850 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 2729 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 1031 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 4160 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Calculate Dependency Info: 120 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Analyze Modules: 2733 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Assemble Modules: 476 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: 3601 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 2745 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 496 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 43 -- invalidated: 0[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 120 -- invalidated: 0[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 5682 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 1533 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: total top-level trees: 642; re-computed: 0[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: total modules: 4; re-written: 0[0m
